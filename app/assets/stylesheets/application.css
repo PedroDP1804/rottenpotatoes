@@ -51,7 +51,6 @@ font-size: 2em;
 font-style: normal;
 }
 table#movies {
-margin: 10px;
 border-collapse: collapse;
 width: 100%;
 border-bottom: 2px solid black;
@@ -75,4 +74,16 @@ display: block;
 line-height: 25px;
 font-weight: bold;
 color: maroon;
+}
+
+.atributos {
+    margin: 0px;
+}
+
+.filme {
+    margin-bottom: 15px;
+}
+
+.ordenacao {
+    margin: 0px 0px 15px 0px;
 }
