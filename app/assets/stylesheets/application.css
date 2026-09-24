@@ -27,8 +27,7 @@ div#main {
     margin: 0;
     padding: 0 20px 20px;
 }
-a {
-    background: transparent;
+.link a {
     color: maroon;
     text-decoration: underline;
     font-weight: bold;
@@ -86,4 +85,10 @@ color: maroon;
 
 .ordenacao {
     margin: 0px 0px 15px 0px;
+}
+
+.destaque a {
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
 }
