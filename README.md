@@ -30,7 +30,7 @@ Certifique-se de ter os seguintes programas instalados no seu computador:
 ### 2. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/PedroDP1804/rottenpotatoes](https://github.com/PedroDP1804/rottenpotatoes)
+git clone https://github.com/PedroDP1804/rottenpotatoes
 cd rottenpotatoes
 ```
 
